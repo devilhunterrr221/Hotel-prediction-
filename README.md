@@ -192,8 +192,8 @@ Each model was trained with:
 
 **Naman Malhotra**  
 Technical Analyst | Data Science Enthusiast  
-📧 [your.email@example.com]  
-🌐 [LinkedIn](https://linkedin.com/in/your-profile) • [GitHub](https://github.com/yourusername)
+📧 [malhotran.654@gmail.com]  
+🌐 [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/naman-malhotra-658b212b2/)) • [GitHub](https://github.com/devilhunterrr221)
 
 ---
 
